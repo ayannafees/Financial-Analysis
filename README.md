@@ -18,6 +18,11 @@ Managing personal finances can be challenging due to the fragmentation of financ
 - **Clustered Column Chart:** Shows total income and expense for every month.
 - **Pie Chart:** Displays spending categories such as *UPI Payments, Bank Transfer, ATM Cash Withdrawal, Bill Payment, RTGS/NEFT, Bank Charges,* and others.
 
+## Screenshots
+### Dashboard
+![Dashboard](screenshots/1.png)
+
+
 ## **Tools Used**
 *Power BI*
 
